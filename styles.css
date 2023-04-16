@@ -13,6 +13,7 @@ body {
     display: block;
     justify-content: center;
     align-items: center;
+    padding-top: 20%;
 }
 
 div {
@@ -23,7 +24,7 @@ div {
     justify-content: center;
     align-items: center;
     display: block;
-    padding: 10px 10px 10px 10px;
+    padding: 15px 15px 20px 15px;
     margin: 20% auto;
 }
 
